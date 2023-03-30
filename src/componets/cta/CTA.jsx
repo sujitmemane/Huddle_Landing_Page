@@ -2,9 +2,9 @@ import React from 'react'
 
 const CTA = () => {
   return (
-    <section id='cta' className='mt-16 border'>
+    <section id='cta' className='mt-16 '>
 
-      <div className="container flex flex-col space-y-8 items-center p-8 border">
+      <div className="container flex flex-col space-y-8 items-center p-8 ">
         <h1 className="font-bold text-3xl  text-veryDarkCyan text-center sub md:text-5xl">
           Ready To Build Your Community?
         </h1>
